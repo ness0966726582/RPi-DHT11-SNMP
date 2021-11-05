@@ -1,0 +1,5 @@
+print('TEMP_01/HUMI_01/TEMP_02/HUMI_02')
+print('24.0')
+print('53.0')
+print('24.0')
+print('54.0')
