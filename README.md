@@ -1,13 +1,13 @@
 # RPi-DHT11-SNMP
 
-第一步:
+【第一步:】
 
 file:   funC.py
 
 -用途說明:   抓取感測器元件 + 生成 ----> oid-value.py
 
 
-第二步:
+【第二步:】
 
 file:   SNMP操作/基本配置.txt
 
@@ -18,7 +18,7 @@ file:   SNMP操作/基本配置.txt
 (補充:IP/OID 可以自行定義)
 
 
-第三步:
+【第三步:】
 
 file:   SNMP操作/指令.txt
 
